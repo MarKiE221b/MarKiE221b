@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
 
-# Hey! 👋 MarKiE HERE! 💪
+# Hey! 👋 MarKiE HERE! 💪 #
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/fe/0e/21/fe0e21af0db0b29c33a866d16b7e5392.gif" alt="Banner" width="1000">
@@ -12,20 +12,21 @@
 </p>
 
 ------
+<p align="center">
+    <a href="https://docs.python.org/3/library/index.html"><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100"></a>
+  <a href="https://docs.oracle.com/en/java/"><img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100"></a>
+  <a href="https://kotlinlang.org/docs/home.html"><img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png" alt="kotlin" width="100"></a>
+  <a href="https://developer.android.com/reference"><img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100"></a>
+  <a href="https://golang.org/doc/"><img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="100"></a>
+<p/>
 
-[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
-[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png" alt="kotlin" width="100">](https://kotlinlang.org/docs/home.html)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100">](https://developer.android.com/reference)
-[<img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="100">](https://golang.org/doc/)
 
 
 MY SOCIALS 
 ------
-[<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:mespiritu83795@liceo.edu.ph)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="55">](https://www.facebook.com/mamark12x)
-[<img src="https://cdn.cdnlogo.com/logos/v/78/vercel.svg" alt="Vercel" width="55">](https://vercel.com/markie221b)
-
+<p align="center"><a href="mailto:mespiritu83795@liceo.edu.ph"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="95"></a>
+<a href="https://www.facebook.com/mamark12x"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="100"></a>
+<a href="https://vercel.com/markie221b"><img src="https://cdn.cdnlogo.com/logos/v/78/vercel.svg" alt="Vercel" width="100"></a></p>
 
 GITHUB STATS
 ------
